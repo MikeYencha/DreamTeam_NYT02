@@ -1,3 +1,12 @@
 body {
   font-family: 'Merriweather', serif;
 }
+.form-label {
+  font-weight: 400;
+  float: left;
+}
+.input {
+  float: left;
+  clear: both;
+
+}
